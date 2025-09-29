@@ -25,8 +25,3 @@ dimensions:
 measures:
   count:
     aggregate_type: count
-
-  total_tips:
-    sql: ${tip_amount}
-    label: Total Tips Collected
-    aggregate_type: sum
