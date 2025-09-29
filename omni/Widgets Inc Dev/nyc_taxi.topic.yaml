@@ -1,5 +1,0 @@
-label: NYC Taxi Fares
-description: Contains details about recent taxi fares in New York City.
-
-# this is the nyc_taxi topic
-joins: {}
